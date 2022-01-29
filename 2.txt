@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+ 	<head>
+		 <title>CSR</title>
+	 </head>
+	<body bgcolor="cornsilk" align="center">
+		<h1 align="center" style="color:red;" style="font-size:50px"><em>Customer Rating System</em></h1>
+<input type="button"  value="Add" />  &emsp;
+<input type="button" value="Update" /> &emsp;
+<input type="button" value="Delete" /> &emsp;
+<br><br>
+<form>
+
+<button type="submit" name="btn">From date</button>  
+<input type = "date">   <br><br>
+<button type="submit" name="btn">To date</button>  
+<input type = "date">   
+<br><br>
+<TABLE BORDER="5"    WIDTH="50%"   CELLPADDING="4" CELLSPACING="3" align="center">
+   <TR>
+      <TH>s.no</TH>
+<TH>Number of transactions per day</TH>
+<TH>Incoming Count</TH>
+<TH>Outgoing count</TH>
+<TH>Sum of incoming count</TH>
+<TH>Sum of outgoing count</TH>
+
+   </TR>
+<tr><Th></Th>
+<Th></Th>
+<Th></Th>
+<Th></Th>
+<Th></Th>
+
+<TH></TH></tr>
+<tr><TH></TH>
+
+<TH></TH>
+<TH></TH>
+<TH></TH>
+<TH></TH>
+<TH></TH></tr>
+<tr><TH></TH>
+
+<TH></TH>
+<TH></TH>
+<TH></TH>
+<TH></TH>
+<TH></TH></tr>
+<tr><TH></TH>
+
+<TH></TH>
+<TH></TH>
+<TH></TH>
+<TH></TH>
+<TH></TH></tr>
+   <TR ALIGN="CENTER">
+      
+   </TR>
+</TABLE>
+
+
+<tr><th><th></tr></TABLE>
+
+
+</form>  
+<br>
+<a href="3.html"><input type="button"  value="Risk Rating" /></a>
+
+	</body>

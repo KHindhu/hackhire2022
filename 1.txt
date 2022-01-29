@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ 	<head>
+		 <title>Login</title>
+	 </head>
+	<body bgcolor="silver" align="center">
+
+		<h1 align="center" style="color:red;" style="font-size:50px"><em>Customer Rating System</em></h1>
+<pre>
+		<p style="font-size:20px"> Customer name: <input placeholder="enter your name">
+		<p style="font-size:20px"> Customer ID:  <input placeholder="enter id number">
+</pre>		
+		<a href="2.html"><input type="button"  value="Enter Details" /></a>
+</body>
